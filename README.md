@@ -7,7 +7,7 @@ I'm a passionate **Competitive Programmer** and **Software Developer** with a kn
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
  <div style="display: flex; flex-direction: row; gap: 5px; align-items: center;" >
-  <img src="https://komarev.com/ghpvc/?username=suman-jaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sksusha8853&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 </div>
 
@@ -49,7 +49,6 @@ I'm a passionate **Competitive Programmer** and **Software Developer** with a kn
 <!-- react next react-native flutter mui bootstrap -->
 <p align="center">
 <code><a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" /> </a></code>
-<code><a href="https://material-ui.com/" target="_blank"> <img src="https://logo.clearbit.com/material-ui.com" alt="mui" width="40" height="40" /> </a></code>
 <code><a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" /> </a></code>
 </p>
 
@@ -80,9 +79,9 @@ I'm a passionate **Competitive Programmer** and **Software Developer** with a kn
 
 <hr style="height: 1px; background-color: #ddd; margin-top: 0;"/>
 
-<p align="center"><img style="height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sksusha8853&theme=tokyonight" alt="suman-jaiswal" /></p>
-<p align="center"><img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=sksusha8853&show_icons=true&theme=radical" alt="suman-jaiswal" /></p>
-<p align="center"><img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksusha8853&layout=compact&theme=tokyonight" alt="suman-jaiswal" /></p>
+<p align="center"><img style="height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sksusha8853&theme=tokyonight" alt="sksusha" /></p>
+<p align="center"><img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=sksusha8853&show_icons=true&theme=radical" alt="sksusha" /></p>
+<p align="center"><img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksusha8853&layout=compact&theme=tokyonight" alt="sksusha" /></p>
 
 <br/>
 
