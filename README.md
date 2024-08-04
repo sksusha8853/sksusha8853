@@ -2,7 +2,7 @@
 
 <h4>  I'm Saurabh Kumar Singh </h4>
 
-I'm a passionate **Competitive Programmer** and **Software Developer** with a knack for problem-solving and a track record of successful project development. I love the thrill of competition and the challenge of complex algorithms.
+I'm a **Software Developer** and passionate **Competitive Programmer** with a knack for problem-solving and a track record of successful project development. I love the thrill of competition and the challenge of complex algorithms.
 
 🎯 Portfolio website: [Portfolio](https://saurabh8853-portfolio.vercel.app/)
 
